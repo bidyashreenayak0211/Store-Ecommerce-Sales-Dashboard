@@ -1,4 +1,4 @@
-# Store Ecommerce Sales Dashboard - README
+# Store Ecommerce Sales Dashboard
 
 ## Overview
 The **Store Ecommerce Sales Dashboard** provides a visual representation of key sales and performance metrics for an eCommerce store. This dashboard offers insights into total sales, profit, quantity sold, average order value, top-performing states, customers, and more. Below is a breakdown of each component in the dashboard.
